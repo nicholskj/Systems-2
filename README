@@ -1,3 +1,4 @@
-This is bomb 20.
+The bomb lab gave valuable practice using GDB to trace through memory and gather information in order to defuse the bomb. 
 
-It belongs to smithnm2nicholskj (smithnm2@appstate.edu)
+This was done by running the program in GDB stepping through each line of code and checking variable values to obtain the
+password to defuse the bomb. 
